@@ -21,6 +21,11 @@ This project involves building and evaluating multiple machine learning models t
 - [Contributing](#contributing)
 - [License](#license)
 
+  <p align="center">
+  <img src="https://github.com/erenyeager101/ML-based-Heart-Disease-Detection/blob/main/pics/Q6_Image1_EDAI2.png" alt="Heart Disease Detection Webpage" width="600" />
+</p>
+
+
 ## Overview
 
 The goal of this project is to predict the presence of heart disease in a patient based on several medical features. We evaluate multiple machine learning algorithms to determine the most accurate model.
@@ -46,6 +51,10 @@ The dataset contains the following columns:
 
 ## Installation
 I have included requirements and dependencies files.
+
+<p align="center">
+  <img src="https://github.com/erenyeager101/ML-based-Heart-Disease-Detection/blob/main/pics/Q6_Image2_EDAI2.png" alt="Heart Disease Detection Result" width="600" />
+</p>
 
 # Usage
 Clone the repository:
@@ -81,6 +90,10 @@ K-Nearest Neighbors: 67.21%
 Decision Tree: 81.97%
 Random Forest: 90.16%
 Neural Network: 85.25%
+
+<p align="center">
+  <img src="https://github.com/erenyeager101/ML-based-Heart-Disease-Detection/blob/main/pics/accuracy.png" alt="Accuracy" width="600" />
+</p>
 
 # Visualization
 The project includes a bar plot that compares the accuracy scores of different models.
